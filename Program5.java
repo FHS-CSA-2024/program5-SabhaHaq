@@ -1,6 +1,4 @@
 
-
-
 public class Program5 {
      public static void main(String[] args) {
          //Variables
@@ -31,22 +29,11 @@ public class Program5 {
          double badWagon2 = (double) badWagon1/10; 
          
          System.out.println("Mushroom Cup Prix Racer Average Miles/Per Gallon:");
+         System.out.println("");
          System.out.println("Royal averaged " + royal2 );
+         System.out.println("");
          System.out.println("Koopa King averaged " + koopaKing2);
+         System.out.println("");
          System.out.println("Pipe Frame averaged " + pipeFrame2); 
+         System.out.println("");
          System.out.println("Bad Wagon averaged " + badWagon2);
-        
-        }
-    }
-         
-         
-         
-
-
-//Paste console output below:
-/*
- Mushroom Cup Prix Racer Average Miles/Per Gallon:
-Royal averaged 31.8
-Koopa King averaged 10.3
-Pipe Frame averaged 20.1
-Bad Wagon averaged 14.6
