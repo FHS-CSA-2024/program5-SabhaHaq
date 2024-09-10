@@ -37,3 +37,5 @@ public class Program5 {
          System.out.println("Pipe Frame averaged " + pipeFrame2); 
          System.out.println("");
          System.out.println("Bad Wagon averaged " + badWagon2);
+     }
+}
